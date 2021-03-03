@@ -2,4 +2,6 @@ h1{
     text-align :center;
     color: coral;
     font-style:italic;
+    text-transform: uppercase;
+    margin-top: 20%;
 }
